@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @Description: Hello测试控制器
  * @Author ms
- * @Date 2020/12/1 11:26 下午
+ * @Date 2022/07/20
  */
 @RestController
 @RequestMapping("hello")
